@@ -24,4 +24,12 @@ public class Activar : MonoBehaviour {
         }
     }
 
+    public void ActivarCositasDesactivadas()
+    {
+        for (int i = 0; i < desactivar.Length; i++)
+        {
+            desactivar[i].SetActive(true);
+        }
+    }
+
 }
