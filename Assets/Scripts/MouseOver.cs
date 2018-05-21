@@ -11,9 +11,13 @@ public class MouseOver : MonoBehaviour,IPointerEnterHandler,IPointerExitHandler,
     public GameObject fotoGrande;
     public Activar botonFotos;
     public Transform posicionCentro;
+    public Sprite over;
+    public Sprite normal;
+    public Image spriteButton;
 
     void Start()
     {
+        spriteButton = GetComponent<Image>();
         activar.transform.position = posicionCentro.position;
         Debug.Log(activar.transform.position);
     }
@@ -24,6 +28,7 @@ public class MouseOver : MonoBehaviour,IPointerEnterHandler,IPointerExitHandler,
         activar.SetActive(true);
         botonFotos.DesactivarCositas();
         botonFotos.ActivarCositas();
+        spriteButton.sprite = over;
 
     }
 
@@ -32,6 +37,7 @@ public class MouseOver : MonoBehaviour,IPointerEnterHandler,IPointerExitHandler,
         activar.SetActive(false);
         fotoGrande.SetActive(false);
         botonFotos.ActivarCositasDesactivadas();
+        spriteButton.sprite = normal;
     }
 
     public void OnPointerClick(PointerEventData eventData)
