@@ -2798,8 +2798,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Los sectores conectados al alcantarillado que opera EEPPM representa el
-    96% de carga vertida en el R\xEDo Medell\xEDn, mientras el sector no conectado
+  m_Text: "Los sectores conectados al alcantarillado que opera EEPPM representan el
+    96% de carga vertida en el R\xEDo Medell\xEDn, mientras que el sector no conectado
     al alcantarillado p\xFAblico aporta el 3%."
 --- !u!222 &57961705
 CanvasRenderer:
@@ -5296,8 +5296,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "El \xC1rea Metropolitana establece unos objetivos de calidad para el agua
-    del R\xEDo Medell\xEDn y por todos los usuarios de la cuenca deben trabajar por
-    cumplirlos."
+    del R\xEDo Medell\xEDn y todos los usuarios de la cuenca deben trabajar por cumplirlos."
 --- !u!222 &120034028
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6582,7 +6581,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -7.78, y: -2.9284973}
+  m_AnchoredPosition: {x: -11.2, y: 7.4}
   m_SizeDelta: {x: 244.73, y: 201.31}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &179321599
@@ -6617,10 +6616,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u201CEn el ecosistema todo entra en los ciclos biogeoqu\xEDmicos, todo
+  m_Text: "\u201CEn el ecosistema, todo entra en los ciclos biogeoqu\xEDmicos, todo
     es reutilizable, reciclable en temporalidades largas. El problema ambiental comienza
-    cuando el hombre se sale del ecosistema, por su capacidad racional genera tecnolog\xEDas
-    y transforma el ambiente de manera dr\xE1stica, tanto es que dif\xEDcil volver
+    cuando el hombre se sale de este, gracias a su capacidad racional genera tecnolog\xEDas
+    y transforma el ambiente de manera dr\xE1stica, tanto que es dif\xEDcil volver
     atr\xE1s\u201D Clara Zuluaga."
 --- !u!222 &179321600
 CanvasRenderer:
@@ -7991,12 +7990,13 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Los usuarios que realizan vertimientos puntuales de aguas residuales a
-    los cuerpos de aguas, son: \r\nEmpresas P\xFAblicas de Medell\xEDn-EPM: Responsable
-    de la carga contaminante generada por el sector residencial, comercial e industrial,
-    que se encuentran conectadas a la red de alcantarillado, adem\xE1s de las descargas
-    de las Plantas de Agua Potable yde la Planta de Tratamiento de Agua Residual San
-    Fernando.\r\nUsuarios no conectados al sistema de alcantarillado p\xFAblico, que
-    descargan directamente sus aguas residuales a un cuerpo de agua.\n"
+    los cuerpos de aguas, son: \r\n\u2022 Empresas P\xFAblicas de Medell\xEDn-EPM:
+    Responsable de la carga contaminante generada por el sector residencial, comercial
+    e industrial, que se encuentran conectadas a la red de alcantarillado, adem\xE1s
+    de las descargas de las Plantas de Agua Potable y de la Planta de Tratamiento
+    de Agua Residual San Fernando.\r\n\u2022 Usuarios no conectados al sistema de
+    alcantarillado p\xFAblico: Que descargan directamente sus aguas residuales a un
+    cuerpo de agua."
 --- !u!222 &217379441
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9815,7 +9815,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 331.4, y: 199.3}
+  m_AnchoredPosition: {x: 345.2, y: 219.7}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &295373017
@@ -11367,7 +11367,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "La contaminaci\xF3n del agua es tal, que los encargados de hacer muestreo
     (Red R\xEDo) deben ir con equipamento especial: botas, overol pl\xE1stico que
-    los cubren por completo, guantes e incluso m\xE1scaras. "
+    los cubre por completo, guantes e incluso m\xE1scaras. "
 --- !u!222 &334282482
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13498,7 +13498,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -17.8, y: -4.4}
+  m_AnchoredPosition: {x: -15, y: 4.4220886}
   m_SizeDelta: {x: 255.83, y: 206.34}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &411004497
@@ -13534,10 +13534,10 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Muchas personas no conocen los peligros y, constantemente, tienen contacto
-    con sus aguas.  \u201CUno se pregunta \xBFqu\xE9 enfermedades tendr\xE1 esa persona
-    o qu\xE9 anticuerpos tendr\xE1 para defenderse?. Es un problema de salud p\xFAblica
-    grave pero la institucionalidad no ha sido eficiente frente a esto, por lo cual
-    no se habla mucho del tema\u201D. Clara Zuluaga."
+    con el agua del r\xEDo.  \u201CUno se pregunta \xBFqu\xE9 enfermedades tendr\xE1
+    esa persona o qu\xE9 anticuerpos tendr\xE1 para defenderse?. Es un problema de
+    salud p\xFAblica grave pero la institucionalidad no ha sido eficiente frente a
+    esto, por lo cual no se habla mucho del tema\u201D Clara Zuluaga."
 --- !u!222 &411004498
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14630,7 +14630,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 09a1bf6a15ea2d84489c35d56b7ffe98, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dbc1f970526bb5b4dbc2194574add1a4, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -14817,7 +14817,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -13.77, y: -6.21}
+  m_AnchoredPosition: {x: -13.770004, y: 2.0603561}
   m_SizeDelta: {x: 254.49, y: 200.25}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &437346557
@@ -14853,7 +14853,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "A medida que avanza, se introduce en la zona urbana de los Municipios del
-    Sur y en el Centro del Valle, atravesando la ciudad de Medell\xEDn.En estas zonas
+    sur y en el centro del Valle, atravesando la ciudad de Medell\xEDn. En estas zonas
     la apropiaci\xF3n del espacio f\xEDsico ha sido agresiva y poco planificada, cambiando
     completamente el aspecto natural del \xE1rea. "
 --- !u!222 &437346558
@@ -16286,7 +16286,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &456736645
 RectTransform:
   m_ObjectHideFlags: 0
@@ -17981,8 +17981,8 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "En cuanto a los organismos vivos que forman el ecosistema de la cuenca
-    del r\xEDo Aburr\xE1, se puede decir, en s\xEDntesis, que el problema es la poca
-    capacidad que ahora tienen los ecosistemas nativos para mantener su estructura
+    del R\xEDo Medell\xEDn, se puede decir, en s\xEDntesis, que el problema es la
+    poca capacidad que ahora tienen los ecosistemas nativos para mantener su estructura
     y funci\xF3n esencial, lo cual ocurre por: la acelerada extinci\xF3n local de
     especies y la gran cantidad en riesgo de extinci\xF3n, el alto grado de transformaci\xF3n
     del paisaje natural y el alto grado de fragmentaci\xF3n de los ecosistemas naturales."
@@ -18630,7 +18630,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0.000005722046, y: 0}
-  m_SizeDelta: {x: 0, y: 259}
+  m_SizeDelta: {x: 0, y: 247.8}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &512528610
 GameObject:
@@ -22206,7 +22206,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 63.725, y: -7.845}
+  m_AnchoredPosition: {x: 63.725, y: -11.636871}
   m_SizeDelta: {x: 127.45, y: 112.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &610141819
@@ -22242,7 +22242,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Algunos de los macroinvertebrados acu\xE1ticos m\xE1s representativos determinados
-    en el r\xEDo Aburr\xE1 en 2010, 2011 y 2012:"
+    en el R\xEDo Medell\xEDn en 2010, 2011 y 2012:"
 --- !u!222 &610141820
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -26433,7 +26433,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15, y: -3.899994}
+  m_AnchoredPosition: {x: -15, y: 5.3}
   m_SizeDelta: {x: 254.3, y: 235.84}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &754558638
@@ -26468,9 +26468,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Entre 1972 y 2006 hubo una recuperaci\xF3n de la calidad general del r\xEDo
+  m_Text: "Entre 1972 y 2006, hubo una recuperaci\xF3n de la calidad general del r\xEDo,
     que se vio principalmente en la reducci\xF3n de la materia org\xE1nica que llegaba
-    por vertimientos de aguas residuales dom\xE9sticas e industriales. A\xFAn as\xED,
+    por vertimientos de aguas residuales, dom\xE9sticas e industriales. A\xFAn as\xED,
     era claro que se segu\xEDa necesitando de un mayor control en este tema que, seg\xFAn
     el \xC1rea metropolitana, sigue siendo la principal raz\xF3n de contaminaci\xF3n
     del r\xEDo."
@@ -28709,7 +28709,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -14.4, y: -3.699997}
+  m_AnchoredPosition: {x: -14.4, y: 8.9}
   m_SizeDelta: {x: 253.71, y: 198.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &830705781
@@ -34450,7 +34450,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "El modelo de crecimiento econ\xF3mico adoptado por la cultura local ha
+  m_Text: "El modelo de crecimiento econ\xF3mico adoptado por la cultura local, ha
     permitido desarrollos urban\xEDsticos que ignoran las demandas ecol\xF3gicas de
     las poblaciones silvestres nativas."
 --- !u!222 &1010992837
@@ -37794,7 +37794,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -16.33, y: -21.6}
+  m_AnchoredPosition: {x: -13.8, y: 2.5}
   m_SizeDelta: {x: 255.97, y: 216.97}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1122272588
@@ -37829,7 +37829,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "En 2017 ,RedR\xEDo, realiz\xF3 dos campa\xF1as de monitoreo en el R\xEDo
+  m_Text: "En 2017 ,RedR\xEDo realiz\xF3 dos campa\xF1as de monitoreo en el R\xEDo
     Medell\xEDn para evaluar dos \xEDndices que indican la calidad del agua: \xCDndice
     de Calidad de Agua Global (ICA-Global), que es m\xE1s sensible a los cambios en
     las condiciones ecol\xF3gicas, y el \xCDndice de Calidad General del Agua en Corrientes
@@ -40520,7 +40520,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1613310792}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.5959839
+  m_Size: 0.54160637
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -44685,8 +44685,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000013351, y: -7.9}
-  m_SizeDelta: {x: 297.2, y: 133.93}
+  m_AnchoredPosition: {x: -0.000013351, y: -11.83}
+  m_SizeDelta: {x: 297.2, y: 126.08}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1334071352
 MonoBehaviour:
@@ -44869,7 +44869,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0.000005722046, y: 0}
-  m_SizeDelta: {x: 0, y: 207.17}
+  m_SizeDelta: {x: 0, y: 227.97}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &1345087458
 GameObject:
@@ -47196,10 +47196,10 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Construir ciudad urbana es una actividad que consume territorio, pues arrasa
-    la vegetaci\xF3n, el suelo org\xE1nico y afecta los ciclos naturales. La urbanizaci\xF3n
-    impermeabiliza los suelos con pavimento y concreto, entonces no hay infiltraci\xF3n
-    de agua y todo escurre, lo cual genera riesgos por inundaci\xF3n en las zonas
-    aguas abajo y, a la vez, hace que los cuerpos de agua pierdan caudal."
+    con la vegetaci\xF3n, con el suelo org\xE1nico y afecta los ciclos naturales.
+    La urbanizaci\xF3n impermeabiliza los suelos con pavimento y concreto, entonces
+    no hay infiltraci\xF3n de agua y todo escurre, lo cual genera riesgos por inundaci\xF3n
+    en las zonas aguas abajo y, a la vez, hace que los cuerpos de agua pierdan caudal."
 --- !u!222 &1430127914
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -49469,7 +49469,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1619734030}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.41152552
+  m_Size: 0.4408698
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -52411,7 +52411,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1718443491}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.59418815
+  m_Size: 0.55936116
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -54091,7 +54091,7 @@ RectTransform:
   m_Father: {fileID: 852692091}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.40401608}
+  m_AnchorMin: {x: 0, y: 0.45839363}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -0.0000038147, y: 20}
@@ -54240,7 +54240,7 @@ RectTransform:
   m_Father: {fileID: 516267175}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.5884745}
+  m_AnchorMin: {x: 0, y: 0.5591302}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -0.0000038147, y: 20}
@@ -56462,7 +56462,7 @@ RectTransform:
   m_Father: {fileID: 61127415}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.40581185}
+  m_AnchorMin: {x: 0, y: 0.44063884}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0.4, y: 0}
   m_SizeDelta: {x: 2.12, y: 20}
@@ -58061,7 +58061,7 @@ RectTransform:
   m_Father: {fileID: 960165883}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.5232818}
+  m_AnchorMin: {x: 0, y: 0.50173527}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -0.0000038147, y: 20}
@@ -59870,7 +59870,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1772096138}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.47671816
+  m_Size: 0.49826473
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -61153,7 +61153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.616}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.616}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -61189,7 +61189,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4, y: 2}
+  m_AnchoredPosition: {x: -109.8, y: -170}
   m_SizeDelta: {x: 944, y: 580}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1846777047
@@ -65449,7 +65449,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -133.55, y: -117.65}
+  m_AnchoredPosition: {x: -109.79999, y: -162.35}
   m_SizeDelta: {x: 668.9, y: 403.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2003843453
@@ -69042,7 +69042,7 @@ RectTransform:
   m_Father: {fileID: 451823357}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.40165508}
+  m_AnchorMin: {x: 0, y: 0.4016552}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -0.0000038147, y: 20}
@@ -69463,8 +69463,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "El \xEDndice bi\xF3tico permite valorar la calidad del agua en un lugar
-    espec\xEDfico dependiendo de las especies que lo habiten"
+  m_Text: "El \xCDndice Bi\xF3tico permite valorar la calidad del agua en un lugar
+    espec\xEDfico, dependiendo de las especies que lo habiten"
 --- !u!222 &2121766394
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -69860,7 +69860,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0.000005722046, y: 0}
-  m_SizeDelta: {x: 0, y: 300.03}
+  m_SizeDelta: {x: 0, y: 280.06}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &2136219817
 GameObject:
