@@ -6,7 +6,7 @@ public class Activar : MonoBehaviour {
 
     public GameObject[] activar;
     public GameObject[] desactivar;
-
+    
     
     public void ActivarCositas()
     {

@@ -10,6 +10,11 @@ public class AnimacionBotonesTitulos : MonoBehaviour,IPointerEnterHandler,IPoint
     public Animator anim;
     public bool inicio;
 
+    public bool seleccionadoBool;
+    public GameObject mapaIconos;
+    public GameObject mapaSinIconos;
+    public GameObject contenedores;
+
     void Awake()
     {
         anim = GetComponent<Animator>();
@@ -18,13 +23,24 @@ public class AnimacionBotonesTitulos : MonoBehaviour,IPointerEnterHandler,IPoint
 
     public void OnPointerClick(PointerEventData eventData)
     {
+        if (seleccionadoBool)
+        {
+            seleccionadoBool = false;
+        }
+        else
+        {
+            seleccionadoBool = true;
+        }
+
+
         for (int i = 0; i < Manager.Instance.Selecionado.Length; i++)
         {
             Manager.Instance.Selecionado[i] = false;
         }
         Manager.Instance.Volver();
         anim.SetBool("Entrar", true);
-        Manager.Instance.Selecionado[id] = true;
+        // Manager.Instance.Selecionado[id] = true;
+        Mapas();
     }
 
     public void OnPointerEnter(PointerEventData eventData)
@@ -38,6 +54,26 @@ public class AnimacionBotonesTitulos : MonoBehaviour,IPointerEnterHandler,IPoint
         if (!Manager.Instance.Selecionado[id])
         {
             anim.SetBool("Entrar", false);
+        }
+    }
+
+    public void Mapas()
+    {
+        Manager.Instance.Selecionado[id] = seleccionadoBool;
+        if (seleccionadoBool)
+        {
+            Debug.Log(seleccionadoBool);
+            mapaIconos.SetActive(false);
+            mapaSinIconos.SetActive(true);
+            contenedores.SetActive(true);
+
+        }
+        else
+        {
+            Debug.Log(seleccionadoBool);
+            mapaSinIconos.SetActive(false);
+            mapaIconos.SetActive(transform);
+            contenedores.SetActive(false);
         }
     }
 }
