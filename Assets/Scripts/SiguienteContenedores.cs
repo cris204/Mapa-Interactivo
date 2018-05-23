@@ -17,9 +17,8 @@ public class SiguienteContenedores : MonoBehaviour {
         }
         if (numero < 0)
         {
-            numero = fotos.Length;
+            numero = fotos.Length-1;
         }
-
         for (int i = 0; i < fotos.Length; i++)
         {
             fotos[i].SetActive(false);
