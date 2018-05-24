@@ -434,8 +434,8 @@ RectTransform:
   - {fileID: 1167522727}
   - {fileID: 1122375090}
   - {fileID: 1909239022}
-  - {fileID: 1517495213}
   - {fileID: 1925409581}
+  - {fileID: 1517495213}
   - {fileID: 1345087459}
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -2144,7 +2144,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 637826115}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.4109381
+  m_Size: 0.43589997
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4442,7 +4442,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -6100,7 +6100,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 721825798}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.59350884
+  m_Size: 0.5935089
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -15045,7 +15045,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -10.199997, y: 0}
+  m_AnchoredPosition: {x: -13, y: 9.23}
   m_SizeDelta: {x: 255.17, y: 322.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &440955961
@@ -15084,9 +15084,9 @@ MonoBehaviour:
     llamada usuario de captaci\xF3n, la toma y le hace un saneamiento con el fin de
     que sea apta para su uso (ya sea con fines dom\xE9sticos, agr\xEDcolas, pecuarios,
     recreativos, entre otros). Luego de esto, debe devolverla al afluente seg\xFAn
-    lo que dice la norma: removiendo los contaminantes de tal manera que la calidad
+    lo que dicta la norma: removiendo los contaminantes de tal manera que la calidad
     del agua vertida (la concentraci\xF3n de desechos en el agua) cumpla con unos
-    est\xE1ndares establecidos (resoluci\xF3n 0631 de 2015). "
+    est\xE1ndares establecidos. *resoluci\xF3n 0631 de 2015. "
 --- !u!222 &440955962
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16286,7 +16286,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &456736645
 RectTransform:
   m_ObjectHideFlags: 0
@@ -17555,7 +17555,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -19851,9 +19851,9 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "Desde el a\xF1o 2000, inici\xF3 operaciones la Planta de Tratamiento de
     Aguas Residuales (PTAR) San Fernando, localizada en Itag\xFC\xED. Esta trata las
-    aguas residuales generadas en los Municipios de Envigado, Sabaneta, Itag\xFC\xED,
-    una parte de la Estrella y del corregimiento San Antonio de Prado, en el sur de
-    Medell\xEDn. Es la \xFAnica que est\xE1 en funcionamiento. "
+    aguas residuales generadas en los municipios de Envigado, Sabaneta, Itag\xFC\xED,
+    una parte de la Estrella y del corregimiento San Antonio de Prado, al sur de Medell\xEDn.
+    Es la \xFAnica planta de tratamiento que est\xE1 en funcionamiento. "
 --- !u!222 &543475230
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -22651,11 +22651,11 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "\u201CPor ley de gravedad, no se puede usar el agua del r\xEDo para abastecer
-    a todo el Valle. El consumo de energ\xEDa para bombearla ser\xEDa inmenso. Por
-    esa raz\xF3n, se usan aguas que est\xE1n m\xE1s arriba del Valle (norte y oriente),
-    ya que este sistema funciona pr\xE1cticamente por gravedad y eso hace que las
-    tarifas que al gente paga sean bajas. El r\xEDo es m\xE1s para la descarga\u201D
-    t\xE9cnico EEPPM."
+    a todo el Valle. El consumo de energ\xEDa para bombear el agua ser\xEDa inmenso.
+    Por esa raz\xF3n, se usan aguas que est\xE1n m\xE1s arriba del Valle (norte y
+    oriente), ya que este sistema funciona pr\xE1cticamente por gravedad y eso hace
+    que las tarifas que al gente paga sean bajas. El r\xEDo es m\xE1s para la descarga\u201D
+    EEPPM."
 --- !u!222 &626265644
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -22763,7 +22763,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0.000005722046, y: 0}
-  m_SizeDelta: {x: 0, y: 322.36}
+  m_SizeDelta: {x: 0, y: 303.9}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &637826114
 GameObject:
@@ -22795,7 +22795,7 @@ RectTransform:
   m_Father: {fileID: 1237589962}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.58906186}
+  m_AnchorMin: {x: 0, y: 0.5641}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -0.0000038147, y: 20}
@@ -29669,9 +29669,9 @@ MonoBehaviour:
     los afluentes: \r\n\u2022 La generaci\xF3n de residuos en el Valle de Aburr\xE1
     va en aumento. En el \xC1rea metropolitana se generan 72,904 toneladas al mes.
     \r\n\u2022 En las zonas rurales hay problemas con la recolecci\xF3n y transporte
-    de los residuos s\xF3lidos. \r\n-El manejo inadecuado e incipiente de los lodos
-    que se producen en las diferentes plantas de tratamiento de aguas residuales,
-    los cuales en su mayor\xEDa son t\xF3xicos.\r\n\u2022 Los impactos que los rellenos
+    de los residuos s\xF3lidos. \r\n\u2022 El manejo inadecuado e incipiente de los
+    lodos que se producen en las diferentes plantas de tratamiento de aguas residuales,
+    los cuales, en su mayor\xEDa, son t\xF3xicos.\r\n\u2022 Los impactos que los rellenos
     sanitarios pueden causar al recurso h\xEDdrico debido al vertimiento final de
     los lixiviados.\r\n"
 --- !u!222 &864766098
@@ -31601,7 +31601,7 @@ MonoBehaviour:
     nosotros como ciudadanos no estamos poniendo el grano de arena que nos toca. Mientras
     m\xE1s agua una persona consuma, m\xE1s contaminaci\xF3n genera porque esta va
     a unirse con el resto de agua sucia, lo que significa m\xE1s volumen para tratar
-    en las plantas\u201D Claudia Zuluaga."
+    en las plantas\u201D Clara Zuluaga."
 --- !u!222 &917699760
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -36559,9 +36559,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "El \xC1rea Metropolitana a\xFAn viene avanzando en la formulaci\xF3n del
-    \ Plan de Ordenamiento del Recurso H\xEDdrico (PORH) del r\xEDo Medell\xEDn y
-    el Plan de Manejo Ambiental del Acu\xEDfero del Valle de Aburr\xE1 (PMAA)."
+  m_Text: "El \xC1rea Metropolitana a\xFAn est\xE1 avanzando en la formulaci\xF3n
+    del  Plan de Ordenamiento del Recurso H\xEDdrico (PORH) del R\xEDo Medell\xEDn
+    y el Plan de Manejo Ambiental del Acu\xEDfero del Valle de Aburr\xE1 (PMAA)."
 --- !u!222 &1070659170
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -45465,7 +45465,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -45615,7 +45615,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -48495,7 +48495,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -48779,9 +48779,9 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "\u201CCon la entrada de la planta de tratamiento Aguas Claras, vamos a
     tener un  70% u 80% de cobertura en saneamiento. Ninguna otra ciudad del pa\xEDs
-    est\xE1 a ese nivel\u201D t\xE9cnido de EEPPM. El proyecto tiene un costo entre
-    los 400 y 500 millones de d\xF3lares y su formulaci\xF3n y dise\xF1o iniciaron
-    hace m\xE1s de 10 a\xF1os."
+    est\xE1 a ese nivel\u201D EEPPM. El proyecto tiene un costo entre los 400 y 500
+    millones de d\xF3lares y su formulaci\xF3n y dise\xF1o iniciaron hace m\xE1s de
+    10 a\xF1os."
 --- !u!222 &1458537042
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -50911,7 +50911,7 @@ RectTransform:
   - {fileID: 1167681112}
   - {fileID: 1647255549}
   m_Father: {fileID: 4865216}
-  m_RootOrder: 14
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -53222,7 +53222,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1758763206}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.59350884
+  m_Size: 0.5935089
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -55084,7 +55084,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -55138,7 +55138,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -56880,7 +56880,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -57398,9 +57398,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Actualmente se tienen registro de 18 concesiones (activas) de uso de caudal
-    del R\xEDo Medell\xEDn, que fueron otorgadas otorgadas a 13 usuarios legalizados.
-    Nueve son para uso industrial, tres para uso pecuario, tres para uso dom\xE9stico,dos
+  m_Text: "Actualmente se tiene registro de 18 concesiones (activas) de uso de caudal
+    del R\xEDo Medell\xEDn, que fueron otorgadas a 13 usuarios legalizados. Nueve
+    son para uso industrial, tres para uso pecuario, tres para uso dom\xE9stico, dos
     para \u201Cotros usos\u201D y uno para abastecimiento de acueducto (EEPPM)."
 --- !u!222 &1741069734
 CanvasRenderer:
@@ -58308,7 +58308,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "En cuanto al recurso del suelo, en toda la cuenca del R\xEDo Aburr\xE1
+  m_Text: "En cuanto al recurso del suelo, en toda la cuenca del R\xEDo Medell\xEDn
     se encuentran recursos minerales relacionados con los materiales de construcci\xF3n
     y en algunos sectores, con muy poca ocurrencia, se han reportado recursos de minerales
     met\xE1licos, como oro y plata."
@@ -63338,7 +63338,7 @@ RectTransform:
   - {fileID: 873081072}
   - {fileID: 882772421}
   m_Father: {fileID: 4865216}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
